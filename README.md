@@ -49,7 +49,7 @@ OPENWEATHER_API_KEY=ваш_api_ключ
 
 1. **Токен Telegram бота**:
    - Напишите [@BotFather](https://t.me/BotFather) в Telegram
-   - Используйте команду `/newbot` для создания бота
+   - Используйте команду `/newbot` для создания бота и следуйте инструкции в боте
    - Скопируйте токен, который предоставит BotFather
 
 2. **API ключ OpenWeatherMap**:
