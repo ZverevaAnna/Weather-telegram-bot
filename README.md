@@ -39,7 +39,7 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
-4. Отредактируйте `.env` файл, добавив свои данные:
+4. Создайте файл .env в корне проекта и добавьте:
 ```ini
 BOT_TOKEN=ваш_токен_бота
 OPENWEATHER_API_KEY=ваш_api_ключ
