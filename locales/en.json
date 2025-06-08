@@ -1,0 +1,22 @@
+{
+  "welcome_new": "Welcome to WhatEverWeather Bot! Please select your language:",
+  "welcome_back": "Welcome back, {name}! How can I help you today?",
+  "help": "This bot provides weather information for any city. Available commands:\n\n/weather - Get current weather\n/history - View your request history\n/settings - Change bot settings",
+  "ask_city": "Please enter the city name:",
+  "weather_response": "Weather in {city}:\n\nTemperature: {temp}°C (feels like {feels_like}°C)\nHumidity: {humidity}%\nWind: {wind_speed} m/s\nCondition: {description}",
+  "weather_error": "Couldn't get weather data for this location. Please check the city name and try again.",
+  "language_set": "Language has been set to English!",
+  "settings_menu": "Settings menu. Select your language:",
+  "history_header": "Your recent weather requests:",
+  "no_history": "You haven't made any weather requests yet.",
+  "not_registered": "Please start the bot with /start command first.",
+  "throttling": "Too many requests. Please wait 2 seconds.",
+
+  "weather_button": "Get Weather",
+  "history_button": "History",
+  "settings_button": "Settings",
+
+  "current_weather": "Current Weather",
+  "forecast_3day": "3-Day Forecast",
+  "back_button": "Back"
+}
